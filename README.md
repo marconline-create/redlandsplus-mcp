@@ -1,6 +1,8 @@
 # Redlands Plus MCP
 
-Search local businesses in Redland City, Queensland, Australia (Cleveland, Capalaba, Victoria Point, Redland Bay, Wellington Point and the bay islands) from Cursor or any MCP client, powered by the [Redlands Plus](https://redlandsplus.com.au) directory. The server is streamable HTTP at `https://redlandsplus.com.au/mcp`.
+[https://redlandsplus.com.au/](https://redlandsplus.com.au/)
+
+Search local businesses in Redland City, Queensland, Australia (Cleveland, Capalaba, Victoria Point, Redland Bay, Wellington Point and the bay islands) from Cursor or any MCP client, powered by the Redlands Plus directory at [https://redlandsplus.com.au/](https://redlandsplus.com.au/). The server is streamable HTTP at `https://redlandsplus.com.au/mcp`.
 
 ## Tools
 
