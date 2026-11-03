@@ -1,0 +1,24 @@
+{
+  "name": "redlands-plus",
+  "displayName": "Redlands Plus",
+  "description": "Search local businesses across Redland City, Queensland (Cleveland, Capalaba, Victoria Point, Redland Bay, Wellington Point and the bay islands) from Cursor, using the free Redlands Plus directory.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Redlands Plus",
+    "email": "admin@redlandszone.com.au",
+    "url": "https://redlandsplus.com.au/"
+  },
+  "homepage": "https://redlandsplus.com.au/",
+  "repository": "https://github.com/marconline-create/redlandsplus-mcp",
+  "license": "MIT",
+  "keywords": [
+    "redlands",
+    "brisbane",
+    "queensland",
+    "local business",
+    "directory",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": ".mcp.json"
+}
